@@ -6,8 +6,6 @@ import org.openqa.selenium.WebElement;
 import org.openqa.selenium.support.FindBy;
 import org.openqa.selenium.support.PageFactory;
 
-import com.github.dockerjava.api.command.PullImageCmd;
-
 public class Indexpage 
 {
 	@FindBy(xpath="//a[@class='login']")
